@@ -12,7 +12,7 @@ _he/him/his_
 🌐 Personal site: [brianch.uk](https://brianch.uk)
 
 
-![](https://github.com/devchuk/devchuk/blob/master/dino.gif)
+![Dino run gif](https://github.com/devchuk/devchuk/blob/master/dino.gif)
 
 <!--
 **devChuk/devChuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
