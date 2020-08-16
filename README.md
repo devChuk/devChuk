@@ -3,7 +3,7 @@ _he/him/his_
 
 💻 I'm a software engineer born, raised, ~and residing~ in New York City. I make stuff at [Squarespace](http://squarespace.com/).
 
-✈️ Prior to that, I took 1.5 years to become a remote freelance developer while traveling around the world.
+🌇 Prior to that, I took 1.5 years to become a remote freelance developer while traveling around the world.
 
 💼 I've worked at [Flatiron Health](https://flatiron.com/), [B12](https://www.b12.io/), [Shaper](http://shapertools.com/), [Betterpath](http://www.betterpath.com/), [Kite and Rocket Research](http://kiteandrocket.com/), & [Syncano](http://syncano.io/).
 
