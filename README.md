@@ -1,7 +1,7 @@
 # Brian Chuk — @devChuk
 _he/him/his_
 
-💻 I'm a software engineer born, raised, and residing in New York City. I make stuff at [Squarespace](http://squarespace.com/).
+💻 I'm a software engineer born, raised, ~and residing~ in New York City. I make stuff at [Squarespace](http://squarespace.com/).
 
 ✈️ Prior to that, I took 1.5 years to become a remote freelance developer while traveling around the world.
 
